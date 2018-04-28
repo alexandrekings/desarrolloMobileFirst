@@ -1,0 +1,56 @@
+
+  /*particulares*/
+body{
+    background-image: url("../img/stripes.jpg");
+    background-repeat: no-repeat;
+    background-position: top bottom;
+}
+header{
+  height: 6em;
+}
+header img{
+    width: auto;
+    height: inherit;
+}
+.img--img01{
+    background-color: cadetblue;
+    width: 100%;
+    height: auto;
+}
+.img--img02{
+  background-color: burlywood;
+  width: 100%;
+
+}
+.img--img03{
+  background-color: bisque;
+  width: 100%;
+}
+.img--img04{
+  background-color: beige;
+  width: 100%;
+}
+.texto--p{
+    width: auto;
+    color: blueviolet;
+    height: 4em;
+    background-color: white;
+    padding-top: 1em;
+    padding-bottom: 2em;
+   
+}
+footer{
+    height: auto;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    background-color: #181818;
+    color:#ebebeb
+}
+footer h2{
+    font-size: 1rem;
+
+}
+.center{
+    text-align: center
+}
